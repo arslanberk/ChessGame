@@ -1,0 +1,91 @@
+﻿  Utils.cpp
+  Source.cpp
+g:\new folder\chessgame\chessgame\source.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+g:\new folder\chessgame\chessgame\source.cpp(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+g:\new folder\chessgame\chessgame\source.cpp(76): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(77): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\new folder\chessgame\chessgame\source.cpp(89): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(90): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\new folder\chessgame\chessgame\source.cpp(115): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(120): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(125): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(127): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(129): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(142): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(147): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(152): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(154): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(156): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(169): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(174): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(176): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(178): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(182): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(192): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(194): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(207): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(211): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(213): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(215): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(219): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(229): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(231): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(245): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(248): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(250): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(252): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(275): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(278): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(280): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(282): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(306): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(309): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(311): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(313): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(333): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(335): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(348): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(352): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(354): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(356): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(376): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(378): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(392): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(396): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(398): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(400): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(426): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(429): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(431): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(433): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(457): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(462): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(464): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(466): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(468): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(470): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(472): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(476): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(489): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(495): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(497): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(499): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(501): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(503): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(505): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(509): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(528): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(541): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+g:\new folder\chessgame\chessgame\source.cpp(543): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+g:\new folder\chessgame\chessgame\source.cpp(553): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\new folder\chessgame\chessgame\source.cpp(554): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\new folder\chessgame\chessgame\source.cpp(657): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(660): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\new folder\chessgame\chessgame\source.cpp(668): warning C4305: '+=': truncation from 'double' to 'float'
+g:\new folder\chessgame\chessgame\source.cpp(669): warning C4305: '+=': truncation from 'double' to 'float'
+g:\new folder\chessgame\chessgame\source.cpp(672): warning C4305: '-=': truncation from 'double' to 'float'
+g:\new folder\chessgame\chessgame\source.cpp(673): warning C4305: '-=': truncation from 'double' to 'float'
+  Menu.cpp
+  Generating Code...
+  ChessGame.vcxproj -> G:\New folder\ChessGame\Debug\ChessGame.exe
+  ChessGame.vcxproj -> G:\New folder\ChessGame\Debug\ChessGame.pdb (Full PDB)
